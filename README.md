@@ -16,10 +16,10 @@
 
 ```text
 🔥 Editors: 
-Neovim                   0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
