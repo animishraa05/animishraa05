@@ -12,6 +12,16 @@
 - [hotfiles](https://github.com/aniismess/hotfiles.git): My i3 setup configuration files.
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
+
+```text
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 
 <!--END_SECTION:waka-->
 #### Contact & Links
