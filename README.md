@@ -11,19 +11,6 @@
 - [ani-bar](https://github.com/aniismess/ani-bar.git): My polybar configuration. 
 - [hotfiles](https://github.com/aniismess/hotfiles.git): My i3 setup configuration files.
 
-<!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
-```text
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-
-<!--END_SECTION:waka-->
 #### Contact & Links
 <a href="https://discord.gg/3ZxZUAsA"><img src="https://img.shields.io/badge/Discord-animesh-7289da"></a>
 <a href="https://animishraa.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Personal%20Site-animishraa05-blue"></a>
